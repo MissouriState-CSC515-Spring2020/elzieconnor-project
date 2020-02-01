@@ -1,7 +1,9 @@
 # Repository for class project
 
-Run the following in the command line:
->npm run build
+To build this project, type the following into the command line:
 
-Then run the following:
->npm start
+```
+npm install
+npm run build
+npm start
+```
