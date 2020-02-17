@@ -1,3 +1,9 @@
 # Repository for class project
 
-This readme is a placeholder that should be replaced
+To build this project, type the following into the command line:
+
+```
+npm install
+npm run build
+npm start
+```
